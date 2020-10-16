@@ -32,7 +32,7 @@ https://github.com/orhun/kmon
 https://github.com/kazhala/dotbare  
 
 ## FZF
-
+https://github.com/junegunn/fzf
 https://github.com/Aloxaf/fzf-tab  
 
 ## Windows specific
