@@ -31,6 +31,8 @@ https://github.com/orhun/kmon
 
 https://github.com/kazhala/dotbare  
 
+https://www.reddit.com/r/commandline/comments/fqpfz0/using_tmux_popup_window_to_interact_with_fzf/
+
 ## FZF
 https://github.com/junegunn/fzf
 https://github.com/Aloxaf/fzf-tab  
