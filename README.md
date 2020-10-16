@@ -20,7 +20,7 @@ https://github.com/starship/starship
 https://github.com/rossmacarthur/sheldon  
 https://github.com/alacritty/alacritty  
 https://github.com/solidiquis/alacpretty  
-https://github.com/ChristianChiarulli/nvim  
+https://github.com/neovim/neovim
 
 
 ## Linux specific
