@@ -11,6 +11,7 @@ https://github.com/ajeetdsouza/zoxide
 https://github.com/dandavison/delta  
 https://github.com/federico-terzi/espanso  
 https://github.com/stedolan/jq  
+https://github.com/antonmedv/fx
 
 https://github.com/sharkdp/bat  
 https://github.com/eth-p/bat-extras  
