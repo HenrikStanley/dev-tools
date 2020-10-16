@@ -41,6 +41,9 @@ https://github.com/Aloxaf/fzf-tab
 https://github.com/microsoft/terminal  
 https://github.com/microsoft/PowerToys  
 
+## ZSH
+https://github.com/marlonrichert/zsh-autocomplete
+
 ## Kubernetes
 
 https://github.com/ahmetb/kubectx  
