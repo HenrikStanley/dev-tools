@@ -48,3 +48,7 @@ https://github.com/marlonrichert/zsh-autocomplete
 
 https://github.com/ahmetb/kubectx  
 https://github.com/wercker/stern  
+
+
+# Info
+http://www.oilshell.org/blog/2020/04/comics.html
